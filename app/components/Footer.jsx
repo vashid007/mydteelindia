@@ -102,9 +102,9 @@ const Footer = () => {
 
         <div className="w-full lg:w-auto text-center lg:text-center">
 
-          <p className="text-white mb-5">
+          {/* <p className="text-white mb-5">
             Socials
-          </p>
+          </p> */}
 
           <div className="flex justify-center lg:justify-end gap-5 "
           >
