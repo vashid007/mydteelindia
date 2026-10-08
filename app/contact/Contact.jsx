@@ -324,7 +324,7 @@ const Contact = () => {
                       {[
                         {
                           label: "Address",
-                          val: "Suite No: 326, 2nd Floor, KC Arcade, Near TV Centre, CSEZ P.O, Kakkanad, Ernakulam, Kerala - 682037",
+                          val: "Room No: 40/1027, 2nd Floor, Rajabhavan Building, Power House Road, Near Syrian Marthoma Church, Palarivattom P.O, Cochin - 682025, Kerala",
                         },
                         {
                           label: "Phone",
